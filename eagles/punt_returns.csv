@@ -1,0 +1,115 @@
+,Team,Player,Num,Yds,Avg,FC,Lg,TD,Season,Type
+0,Philadelphia Eagles,Brian Mitchell,32,335,10.47,33,72t,1,2000,Punt Returns
+1,Philadelphia Eagles,Jason Bostic,1,0,0.00,0,0,0,2000,Punt Returns
+0,Philadelphia Eagles,Darren Sproles,17,224,13.18,13,66,0,2016,Punt Returns
+1,Philadelphia Eagles,Kenjon Barner,2,22,11.00,0,22,0,2016,Punt Returns
+0,Philadelphia Eagles,Brian Mitchell,39,467,11.97,22,54,0,2001,Punt Returns
+1,Philadelphia Eagles,Na Brown,5,30,6.00,0,11,0,2001,Punt Returns
+2,Philadelphia Eagles,Rashard Cook,0,11,0.00,0,11,0,2001,Punt Returns
+0,Philadelphia Eagles,Brian Mitchell,46,567,12.33,11,76t,1,2002,Punt Returns
+1,Philadelphia Eagles,Bobby Taylor,1,0,0.00,0,0,0,2002,Punt Returns
+0,Philadelphia Eagles,Brian Westbrook,20,306,15.30,16,84t,2,2003,Punt Returns
+1,Philadelphia Eagles,Reno Mahe,6,55,9.17,6,17,0,2003,Punt Returns
+2,Philadelphia Eagles,Lito Sheppard,4,15,3.75,1,5,0,2003,Punt Returns
+3,Philadelphia Eagles,James Thrash,1,2,2.00,1,2,0,2003,Punt Returns
+0,Philadelphia Eagles,Dexter Wynn,18,194,10.78,7,40,0,2004,Punt Returns
+1,Philadelphia Eagles,Reno Mahe,19,109,5.74,8,25,0,2004,Punt Returns
+2,Philadelphia Eagles,Lito Sheppard,2,42,21.00,5,39,0,2004,Punt Returns
+3,Philadelphia Eagles,J.R. Reed,0,18,0.00,0,18,0,2004,Punt Returns
+4,Philadelphia Eagles,Brian Westbrook,2,14,7.00,0,14,0,2004,Punt Returns
+0,Philadelphia Eagles,Reno Mahe,21,269,12.81,9,44,0,2005,Punt Returns
+1,Philadelphia Eagles,Dexter Wynn,22,110,5.00,10,27,0,2005,Punt Returns
+2,Philadelphia Eagles,Brian Westbrook,8,60,7.50,2,23,0,2005,Punt Returns
+3,Philadelphia Eagles,Lito Sheppard,2,9,4.50,3,8,0,2005,Punt Returns
+0,Philadelphia Eagles,Reno Mahe,18,169,9.39,12,23,0,2006,Punt Returns
+1,Philadelphia Eagles,Dexter Wynn,13,131,10.08,5,22,0,2006,Punt Returns
+2,Philadelphia Eagles,Brian Westbrook,5,39,7.80,3,13,0,2006,Punt Returns
+0,Philadelphia Eagles,Reno Mahe,31,249,8.03,11,32,0,2007,Punt Returns
+1,Philadelphia Eagles,Brian Westbrook,4,79,19.75,0,64,0,2007,Punt Returns
+2,Philadelphia Eagles,J.R. Reed,2,8,4.00,0,8,0,2007,Punt Returns
+3,Philadelphia Eagles,Greg Lewis,4,4,1.00,1,5,0,2007,Punt Returns
+4,Philadelphia Eagles,Nick Graham,1,0,0.00,0,0,0,2007,Punt Returns
+0,Philadelphia Eagles,DeSean Jackson,50,440,8.80,16,68t,1,2008,Punt Returns
+1,Philadelphia Eagles,Greg Lewis,1,6,6.00,0,6,0,2008,Punt Returns
+2,Philadelphia Eagles,Joselio Hanson,1,0,0.00,0,0,0,2008,Punt Returns
+0,Philadelphia Eagles,DeSean Jackson,29,441,15.21,15,85t,2,2009,Punt Returns
+1,Philadelphia Eagles,Jeremy Maclin,6,30,5.00,4,27,0,2009,Punt Returns
+0,Philadelphia Eagles,DeSean Jackson,20,231,11.55,8,65t,1,2010,Punt Returns
+1,Philadelphia Eagles,Jorrick Calvin,12,125,10.42,4,44,0,2010,Punt Returns
+2,Philadelphia Eagles,Chad Hall,3,31,10.33,2,14,0,2010,Punt Returns
+3,Philadelphia Eagles,Jeremy Maclin,3,17,5.67,5,9,0,2010,Punt Returns
+0,Philadelphia Eagles,DeSean Jackson,17,114,6.71,12,51,0,2011,Punt Returns
+1,Philadelphia Eagles,Chad Hall,7,76,10.86,12,30,0,2011,Punt Returns
+2,Philadelphia Eagles,Jeremy Maclin,4,29,7.25,3,11,0,2011,Punt Returns
+3,Philadelphia Eagles,Steve Smith,1,0,0.00,1,0,0,2011,Punt Returns
+4,Philadelphia Eagles,Dominique Rodgers-Cromartie,0,-2,0.00,0,-2,0,2011,Punt Returns
+5,Philadelphia Eagles,Curtis Marsh,1,-5,-5.00,0,0,0,2011,Punt Returns
+0,Philadelphia Eagles,Damaris Johnson,26,291,11.19,23,98t,1,2012,Punt Returns
+1,Philadelphia Eagles,Mardy Gilyard,2,15,7.50,3,11,0,2012,Punt Returns
+2,Philadelphia Eagles,Brandon Boykin,1,7,7.00,0,7,0,2012,Punt Returns
+3,Philadelphia Eagles,DeSean Jackson,1,-3,-3.00,0,-3,0,2012,Punt Returns
+0,Philadelphia Eagles,Damaris Johnson,12,100,8.33,12,21,0,2013,Punt Returns
+1,Philadelphia Eagles,DeSean Jackson,14,71,5.07,8,32,0,2013,Punt Returns
+0,Philadelphia Eagles,Darren Sproles,39,506,12.97,16,82t,2,2014,Punt Returns
+1,Philadelphia Eagles,Jeremy Maclin,2,25,12.50,4,18,0,2014,Punt Returns
+2,Philadelphia Eagles,Riley Cooper,0,0,0.00,1,0,0,2014,Punt Returns
+0,Philadelphia Eagles,Darren Sproles,38,446,11.74,18,89t,2,2015,Punt Returns
+1,Philadelphia Eagles,Kenjon Barner,1,-3,-3.00,0,-3,0,2015,Punt Returns
+0,New England Patriots,Troy Brown,39,504,12.92,19,66t,1,2000,Punt Returns
+1,New England Patriots,Kevin Faulk,6,58,9.67,3,35,0,2000,Punt Returns
+0,New England Patriots,Troy Brown,29,413,14.24,15,85t,2,2001,Punt Returns
+1,New England Patriots,Kevin Faulk,4,27,6.75,0,10,0,2001,Punt Returns
+0,New England Patriots,Troy Brown,24,175,7.29,10,27,0,2002,Punt Returns
+1,New England Patriots,Kevin Faulk,8,65,8.12,4,16,0,2002,Punt Returns
+2,New England Patriots,Deion Branch,2,58,29.00,0,40,0,2002,Punt Returns
+0,New England Patriots,Troy Brown,29,293,10.10,13,23,0,2003,Punt Returns
+1,New England Patriots,Tyrone Poole,11,75,6.82,3,18,0,2003,Punt Returns
+2,New England Patriots,Kevin Faulk,5,66,13.20,6,19,0,2003,Punt Returns
+3,New England Patriots,Deion Branch,4,26,6.50,1,11,0,2003,Punt Returns
+4,New England Patriots,Bethel Johnson,1,2,2.00,0,2,0,2003,Punt Returns
+5,New England Patriots,Dedric Ward,0,0,0.00,2,0,0,2003,Punt Returns
+0,New England Patriots,Kevin Faulk,20,133,6.65,11,16,0,2004,Punt Returns
+1,New England Patriots,Troy Brown,12,83,6.92,3,23,0,2004,Punt Returns
+2,New England Patriots,Bethel Johnson,4,8,2.00,1,6,0,2004,Punt Returns
+3,New England Patriots,Tyrone Poole,2,6,3.00,0,6,0,2004,Punt Returns
+4,New England Patriots,Randall Gay,1,0,0.00,0,0,0,2004,Punt Returns
+5,New England Patriots,Deion Branch,1,0,0.00,0,0,0,2004,Punt Returns
+0,New England Patriots,Tim Dwight,32,273,8.53,13,29,0,2005,Punt Returns
+1,New England Patriots,Troy Brown,7,30,4.29,5,7,0,2005,Punt Returns
+2,New England Patriots,Bethel Johnson,1,11,11.00,0,11,0,2005,Punt Returns
+0,New England Patriots,Kevin Faulk,31,330,10.65,5,43,0,2006,Punt Returns
+1,New England Patriots,Chad Jackson,3,76,25.33,0,39,0,2006,Punt Returns
+2,New England Patriots,Troy Brown,2,16,8.00,9,12,0,2006,Punt Returns
+0,New England Patriots,Wes Welker,25,249,9.96,7,35,0,2007,Punt Returns
+1,New England Patriots,Troy Brown,6,55,9.17,2,28,0,2007,Punt Returns
+2,New England Patriots,Chad Jackson,2,7,3.50,0,6,0,2007,Punt Returns
+3,New England Patriots,Kevin Faulk,0,0,0.00,9,0,0,2007,Punt Returns
+0,New England Patriots,Wes Welker,24,237,9.88,6,44,0,2008,Punt Returns
+1,New England Patriots,Kevin Faulk,10,132,13.20,9,24,0,2008,Punt Returns
+2,New England Patriots,Deltha O'Neal,2,2,1.00,1,2,0,2008,Punt Returns
+0,New England Patriots,Wes Welker,27,338,12.52,16,69,0,2009,Punt Returns
+1,New England Patriots,Julian Edelman,6,63,10.50,1,35,0,2009,Punt Returns
+2,New England Patriots,Kevin Faulk,5,31,6.20,2,15,0,2009,Punt Returns
+0,New England Patriots,Julian Edelman,21,321,15.29,6,94t,1,2010,Punt Returns
+1,New England Patriots,Wes Welker,5,36,7.20,7,22,0,2010,Punt Returns
+2,New England Patriots,Brandon Tate,1,4,4.00,0,4,0,2010,Punt Returns
+3,New England Patriots,Kevin Faulk,0,0,0.00,1,0,0,2010,Punt Returns
+0,New England Patriots,Julian Edelman,28,296,10.57,7,72t,1,2011,Punt Returns
+1,New England Patriots,Wes Welker,8,82,10.25,6,25,0,2011,Punt Returns
+2,New England Patriots,Kevin Faulk,2,11,5.50,0,7,0,2011,Punt Returns
+0,New England Patriots,Julian Edelman,17,263,15.47,1,68t,1,2012,Punt Returns
+1,New England Patriots,Wes Welker,25,243,9.72,7,31,0,2012,Punt Returns
+0,New England Patriots,Julian Edelman,35,374,10.69,23,43,0,2013,Punt Returns
+1,New England Patriots,Danny Amendola,1,13,13.00,0,13,0,2013,Punt Returns
+0,New England Patriots,Julian Edelman,25,299,11.96,6,84t,1,2014,Punt Returns
+1,New England Patriots,Danny Amendola,16,132,8.25,5,39,0,2014,Punt Returns
+0,New England Patriots,Danny Amendola,23,276,12.00,12,82,0,2015,Punt Returns
+1,New England Patriots,Keshawn Martin,8,92,11.50,3,21,0,2015,Punt Returns
+2,New England Patriots,Julian Edelman,10,81,8.10,1,19,0,2015,Punt Returns
+3,New England Patriots,Chris Harper,3,17,5.67,2,10,0,2015,Punt Returns
+4,New England Patriots,Patrick Chung,1,4,4.00,0,4,0,2015,Punt Returns
+5,New England Patriots,Damaris Johnson,2,3,1.50,0,3,0,2015,Punt Returns
+0,New England Patriots,Julian Edelman,15,135,9.00,7,23,0,2016,Punt Returns
+1,New England Patriots,Danny Amendola,18,121,6.72,7,30,0,2016,Punt Returns
+2,New England Patriots,Cyrus Jones,11,46,4.18,3,13,0,2016,Punt Returns
+3,New England Patriots,Patrick Chung,1,7,7.00,1,7,0,2016,Punt Returns
