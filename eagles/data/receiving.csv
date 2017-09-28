@@ -1,0 +1,500 @@
+,Team,Player,Gms,Rec,Yds,Avg,YPG,Lg,TD,FD,Tar,YAC,Season,Type
+0,Philadelphia Eagles,Chad Lewis,16,69,735,10.65,45.9,52,3,35,--,--,2000,Receiving
+1,Philadelphia Eagles,Charles Johnson,16,56,642,11.46,40.1,59,7,33,--,--,2000,Receiving
+2,Philadelphia Eagles,Torrance Small,14,40,569,14.22,40.6,70t,3,27,--,--,2000,Receiving
+3,Philadelphia Eagles,Cecil Martin,16,31,219,7.06,13.7,26,0,13,--,--,2000,Receiving
+4,Philadelphia Eagles,Stanley Pritchett,16,25,193,7.72,12.1,17,0,15,--,--,2000,Receiving
+5,Philadelphia Eagles,Duce Staley,5,25,201,8.04,40.2,26,0,12,--,--,2000,Receiving
+6,Philadelphia Eagles,Darnell Autry,11,24,275,11.46,25.0,37,1,12,--,--,2000,Receiving
+7,Philadelphia Eagles,Brian Mitchell,16,13,89,6.85,5.6,21,1,5,--,--,2000,Receiving
+8,Philadelphia Eagles,Luther Broughton,15,12,104,8.67,6.9,21,0,8,--,--,2000,Receiving
+9,Philadelphia Eagles,Jeff Thomason,16,10,46,4.60,2.9,11,5,6,--,--,2000,Receiving
+10,Philadelphia Eagles,Todd Pinkston,16,10,181,18.10,11.3,45,0,7,--,--,2000,Receiving
+11,Philadelphia Eagles,Na Brown,14,9,80,8.89,5.7,18,1,6,--,--,2000,Receiving
+12,Philadelphia Eagles,Donovan McNabb,16,2,5,2.50,0.3,3,0,0,--,--,2000,Receiving
+13,Philadelphia Eagles,Chris Warren,1,1,1,1.00,1.0,1,0,0,--,--,2000,Receiving
+14,Philadelphia Eagles,Bubba Miller,16,1,9,9.00,0.6,9,0,1,--,--,2000,Receiving
+15,Philadelphia Eagles,Dameane Douglas,6,1,9,9.00,1.5,9,0,0,--,--,2000,Receiving
+16,Philadelphia Eagles,Amp Lee,3,1,20,20.00,6.7,20,0,1,--,--,2000,Receiving
+17,Philadelphia Eagles,Alex Van Dyke,4,1,8,8.00,2.0,8,0,1,--,--,2000,Receiving
+0,Philadelphia Eagles,Zach Ertz,14,78,816,10.46,58.3,30,4,42,106,263,2016,Receiving
+1,Philadelphia Eagles,Jordan Matthews,14,73,804,11.01,57.4,54,3,38,117,243,2016,Receiving
+2,Philadelphia Eagles,Darren Sproles,15,52,427,8.21,28.5,73t,2,19,71,407,2016,Receiving
+3,Philadelphia Eagles,Trey Burton,15,37,327,8.84,21.8,32,1,20,60,137,2016,Receiving
+4,Philadelphia Eagles,Nelson Agholor,15,36,365,10.14,24.3,40t,2,15,69,98,2016,Receiving
+5,Philadelphia Eagles,Dorial Green-Beckham,15,36,392,10.89,26.1,26,2,25,74,145,2016,Receiving
+6,Philadelphia Eagles,Brent Celek,16,14,155,11.07,9.7,24,0,8,19,87,2016,Receiving
+7,Philadelphia Eagles,Josh Huff,7,13,72,5.54,10.3,14,1,4,17,89,2016,Receiving
+8,Philadelphia Eagles,Ryan Mathews,13,13,115,8.85,8.8,27,1,7,14,107,2016,Receiving
+9,Philadelphia Eagles,Paul Turner,4,9,126,14.00,31.5,41,0,6,14,52,2016,Receiving
+10,Philadelphia Eagles,Wendell Smallwood,13,6,55,9.17,4.2,18,0,1,13,50,2016,Receiving
+11,Philadelphia Eagles,Kenjon Barner,13,5,42,8.40,3.2,15,0,3,11,47,2016,Receiving
+12,Philadelphia Eagles,Byron Marshall,3,3,10,3.33,3.3,7,0,1,5,13,2016,Receiving
+13,Philadelphia Eagles,Bryce Treggs,9,3,80,26.67,8.9,58,0,3,12,16,2016,Receiving
+14,Philadelphia Eagles,Terrell Watson,1,1,5,5.00,5.0,5,0,0,1,0,2016,Receiving
+15,Philadelphia Eagles,Carson Wentz,16,1,7,7.00,0.4,7,0,0,1,14,2016,Receiving
+0,Philadelphia Eagles,James Thrash,15,63,833,13.22,55.5,64t,8,35,--,--,2001,Receiving
+1,Philadelphia Eagles,Duce Staley,13,63,626,9.94,48.2,46t,2,19,--,--,2001,Receiving
+2,Philadelphia Eagles,Todd Pinkston,16,42,586,13.95,36.6,62t,4,23,--,--,2001,Receiving
+3,Philadelphia Eagles,Chad Lewis,15,41,422,10.29,28.1,33,6,20,--,--,2001,Receiving
+4,Philadelphia Eagles,Cecil Martin,16,24,124,5.17,7.8,17,2,6,--,--,2001,Receiving
+5,Philadelphia Eagles,Freddie Mitchell,15,21,283,13.48,18.9,29,1,16,--,--,2001,Receiving
+6,Philadelphia Eagles,Correll Buckhalter,15,13,130,10.00,8.7,26,0,5,--,--,2001,Receiving
+7,Philadelphia Eagles,Na Brown,16,7,95,13.57,5.9,18,0,6,--,--,2001,Receiving
+8,Philadelphia Eagles,Brian Mitchell,16,6,122,20.33,7.6,56,0,3,--,--,2001,Receiving
+9,Philadelphia Eagles,Jeff Thomason,14,5,33,6.60,2.4,11,0,1,--,--,2001,Receiving
+10,Philadelphia Eagles,Tony Stewart,3,5,52,10.40,17.3,15,1,5,--,--,2001,Receiving
+11,Philadelphia Eagles,Dameane Douglas,16,5,77,15.40,4.8,27,2,4,--,--,2001,Receiving
+12,Philadelphia Eagles,Jamie Reader,16,2,14,7.00,0.9,11,0,1,--,--,2001,Receiving
+13,Philadelphia Eagles,Gari Scott,3,2,26,13.00,8.7,18,0,1,--,--,2001,Receiving
+14,Philadelphia Eagles,Mike Bartrum,16,1,4,4.00,0.2,4t,1,1,--,--,2001,Receiving
+0,Philadelphia Eagles,Todd Pinkston,15,60,798,13.30,53.2,42t,7,40,--,--,2002,Receiving
+1,Philadelphia Eagles,James Thrash,16,52,635,12.21,39.7,39t,6,26,--,--,2002,Receiving
+2,Philadelphia Eagles,Duce Staley,16,51,541,10.61,33.8,45,3,20,--,--,2002,Receiving
+3,Philadelphia Eagles,Antonio Freeman,16,46,600,13.04,37.5,59t,4,28,--,--,2002,Receiving
+4,Philadelphia Eagles,Chad Lewis,16,42,398,9.48,24.9,30,3,22,--,--,2002,Receiving
+5,Philadelphia Eagles,Dorsey Levens,16,19,124,6.53,7.8,24,1,6,--,--,2002,Receiving
+6,Philadelphia Eagles,Cecil Martin,16,15,126,8.40,7.9,53,0,3,--,--,2002,Receiving
+7,Philadelphia Eagles,Freddie Mitchell,16,12,105,8.75,6.6,18,0,6,--,--,2002,Receiving
+8,Philadelphia Eagles,Jeff Thomason,16,10,128,12.80,8.0,24,2,8,--,--,2002,Receiving
+9,Philadelphia Eagles,Brian Westbrook,15,9,86,9.56,5.7,20,0,4,--,--,2002,Receiving
+10,Philadelphia Eagles,Brian Dawkins,16,1,57,57.00,3.6,57t,1,1,--,--,2002,Receiving
+11,Philadelphia Eagles,Mike Bartrum,16,1,8,8.00,0.5,8,0,0,--,--,2002,Receiving
+0,Philadelphia Eagles,James Thrash,16,49,558,11.39,34.9,51,1,24,--,--,2003,Receiving
+1,Philadelphia Eagles,Brian Westbrook,15,37,332,8.97,22.1,38,4,17,--,--,2003,Receiving
+2,Philadelphia Eagles,Todd Pinkston,16,36,575,15.97,35.9,59,2,22,--,--,2003,Receiving
+3,Philadelphia Eagles,Duce Staley,16,36,382,10.61,23.9,52t,2,19,--,--,2003,Receiving
+4,Philadelphia Eagles,Freddie Mitchell,16,35,498,14.23,31.1,39,2,23,--,--,2003,Receiving
+5,Philadelphia Eagles,L.J. Smith,15,27,321,11.89,21.4,36,1,15,--,--,2003,Receiving
+6,Philadelphia Eagles,Chad Lewis,16,23,293,12.74,18.3,29,1,17,--,--,2003,Receiving
+7,Philadelphia Eagles,Jon Ritchie,16,17,86,5.06,5.4,12,3,8,--,--,2003,Receiving
+8,Philadelphia Eagles,Correll Buckhalter,15,10,133,13.30,8.9,27,1,6,--,--,2003,Receiving
+9,Philadelphia Eagles,Greg Lewis,11,6,95,15.83,8.6,25,0,5,--,--,2003,Receiving
+10,Philadelphia Eagles,Donovan McNabb,16,1,-7,-7.00,-0.4,-7,0,0,--,--,2003,Receiving
+11,Philadelphia Eagles,Reno Mahe,2,1,5,5.00,2.5,5,0,0,--,--,2003,Receiving
+12,Philadelphia Eagles,Billy McMullen,5,1,2,2.00,0.4,2,0,0,--,--,2003,Receiving
+0,Philadelphia Eagles,Terrell Owens,14,77,"1,200",15.58,85.7,59t,14,51,--,--,2004,Receiving
+1,Philadelphia Eagles,Brian Westbrook,13,73,703,9.63,54.1,50,6,30,--,--,2004,Receiving
+2,Philadelphia Eagles,Todd Pinkston,16,36,676,18.78,42.2,80,1,24,--,--,2004,Receiving
+3,Philadelphia Eagles,L.J. Smith,16,34,377,11.09,23.6,31,5,21,--,--,2004,Receiving
+4,Philadelphia Eagles,Chad Lewis,15,29,267,9.21,17.8,21,3,16,--,--,2004,Receiving
+5,Philadelphia Eagles,Freddie Mitchell,16,22,377,17.14,23.6,60,2,18,--,--,2004,Receiving
+6,Philadelphia Eagles,Greg Lewis,16,17,183,10.76,11.4,25,0,10,--,--,2004,Receiving
+7,Philadelphia Eagles,Reno Mahe,11,14,123,8.79,11.2,30,0,2,--,--,2004,Receiving
+8,Philadelphia Eagles,Josh Parry,13,9,75,8.33,5.8,22,0,4,--,--,2004,Receiving
+9,Philadelphia Eagles,Dorsey Levens,15,9,92,10.22,6.1,23,0,5,--,--,2004,Receiving
+10,Philadelphia Eagles,Mike Bartrum,16,5,45,9.00,2.8,17,1,3,--,--,2004,Receiving
+11,Philadelphia Eagles,Jon Ritchie,3,4,36,9.00,12.0,11,0,2,--,--,2004,Receiving
+12,Philadelphia Eagles,Billy McMullen,8,3,24,8.00,3.0,15,0,1,--,--,2004,Receiving
+13,Philadelphia Eagles,Eric McCoo,1,2,15,7.50,15.0,8,0,0,--,--,2004,Receiving
+14,Philadelphia Eagles,Thomas Tapeh,7,2,15,7.50,2.1,13,0,1,--,--,2004,Receiving
+0,Philadelphia Eagles,Brian Westbrook,12,61,616,10.10,51.3,62,4,27,--,--,2005,Receiving
+1,Philadelphia Eagles,L.J. Smith,16,61,682,11.18,42.6,48,3,36,--,--,2005,Receiving
+2,Philadelphia Eagles,Greg Lewis,16,48,561,11.69,35.1,34,1,30,--,--,2005,Receiving
+3,Philadelphia Eagles,Terrell Owens,7,47,763,16.23,109.0,91t,6,32,--,--,2005,Receiving
+4,Philadelphia Eagles,Reggie Brown,16,43,571,13.28,35.7,56t,4,24,--,--,2005,Receiving
+5,Philadelphia Eagles,Billy McMullen,16,18,268,14.89,16.8,38,1,13,--,--,2005,Receiving
+6,Philadelphia Eagles,Josh Parry,16,13,89,6.85,5.6,13,0,5,--,--,2005,Receiving
+7,Philadelphia Eagles,Reno Mahe,15,12,68,5.67,4.5,12,0,3,--,--,2005,Receiving
+8,Philadelphia Eagles,Lamar Gordon,14,11,79,7.18,5.6,18,0,1,--,--,2005,Receiving
+9,Philadelphia Eagles,Stephen Spach,13,7,42,6.00,3.2,8,0,1,--,--,2005,Receiving
+10,Philadelphia Eagles,Chad Lewis,8,5,64,12.80,8.0,17,0,4,--,--,2005,Receiving
+11,Philadelphia Eagles,Darnerian McCants,12,5,87,17.40,7.2,22,0,4,--,--,2005,Receiving
+12,Philadelphia Eagles,Ryan Moats,7,4,7,1.75,1.0,9,0,0,--,--,2005,Receiving
+13,Philadelphia Eagles,Mike Bartrum,16,2,6,3.00,0.4,3t,2,2,--,--,2005,Receiving
+0,Philadelphia Eagles,Brian Westbrook,15,77,699,9.08,46.6,52t,4,30,--,--,2006,Receiving
+1,Philadelphia Eagles,L.J. Smith,16,50,611,12.22,38.2,65,5,29,--,--,2006,Receiving
+2,Philadelphia Eagles,Reggie Brown,16,46,816,17.74,51.0,60t,8,34,--,--,2006,Receiving
+3,Philadelphia Eagles,Donte' Stallworth,12,38,725,19.08,60.4,84t,5,30,--,--,2006,Receiving
+4,Philadelphia Eagles,Greg Lewis,16,24,348,14.50,21.8,45t,2,20,--,--,2006,Receiving
+5,Philadelphia Eagles,Correll Buckhalter,16,24,256,10.67,16.0,55t,1,11,--,--,2006,Receiving
+6,Philadelphia Eagles,Hank Baskett,16,22,464,21.09,29.0,89t,2,17,--,--,2006,Receiving
+7,Philadelphia Eagles,Thomas Tapeh,16,16,85,5.31,5.3,15,1,3,--,--,2006,Receiving
+8,Philadelphia Eagles,Matt Schobel,16,14,214,15.29,13.4,60,2,9,--,--,2006,Receiving
+9,Philadelphia Eagles,Jason Avant,8,7,68,9.71,8.5,18,1,5,--,--,2006,Receiving
+10,Philadelphia Eagles,Reno Mahe,12,5,23,4.60,1.9,8,0,1,--,--,2006,Receiving
+0,Philadelphia Eagles,Brian Westbrook,15,90,771,8.57,51.4,57t,5,31,--,--,2007,Receiving
+1,Philadelphia Eagles,Kevin Curtis,16,77,"1,110",14.42,69.4,75t,6,49,--,--,2007,Receiving
+2,Philadelphia Eagles,Reggie Brown,16,61,780,12.79,48.8,45t,4,38,--,--,2007,Receiving
+3,Philadelphia Eagles,Jason Avant,15,23,267,11.61,17.8,31,2,15,--,--,2007,Receiving
+4,Philadelphia Eagles,L.J. Smith,10,22,236,10.73,23.6,26,1,12,--,--,2007,Receiving
+5,Philadelphia Eagles,Hank Baskett,16,16,142,8.88,8.9,25,1,5,--,--,2007,Receiving
+6,Philadelphia Eagles,Brent Celek,16,16,178,11.12,11.1,29,1,10,--,--,2007,Receiving
+7,Philadelphia Eagles,Greg Lewis,15,13,265,20.38,17.7,50,3,11,--,--,2007,Receiving
+8,Philadelphia Eagles,Correll Buckhalter,14,12,87,7.25,6.2,14,0,7,--,--,2007,Receiving
+9,Philadelphia Eagles,Matt Schobel,15,11,108,9.82,7.2,18,1,6,--,--,2007,Receiving
+10,Philadelphia Eagles,Thomas Tapeh,16,8,50,6.25,3.1,9,0,1,--,--,2007,Receiving
+11,Philadelphia Eagles,Reno Mahe,15,1,11,11.00,0.7,11,0,1,--,--,2007,Receiving
+0,Philadelphia Eagles,DeSean Jackson,16,62,912,14.71,57.0,60,2,43,--,--,2008,Receiving
+1,Philadelphia Eagles,Brian Westbrook,14,54,402,7.44,28.7,47,5,18,--,--,2008,Receiving
+2,Philadelphia Eagles,L.J. Smith,13,37,298,8.05,22.9,25,3,16,--,--,2008,Receiving
+3,Philadelphia Eagles,Hank Baskett,15,33,440,13.33,29.3,90t,3,22,--,--,2008,Receiving
+4,Philadelphia Eagles,Kevin Curtis,9,33,390,11.82,43.3,32,2,19,--,--,2008,Receiving
+5,Philadelphia Eagles,Jason Avant,15,32,377,11.78,25.1,31,2,22,--,--,2008,Receiving
+6,Philadelphia Eagles,Brent Celek,16,27,318,11.78,19.9,44,1,16,--,--,2008,Receiving
+7,Philadelphia Eagles,Correll Buckhalter,14,26,324,12.46,23.1,59,2,15,--,--,2008,Receiving
+8,Philadelphia Eagles,Greg Lewis,16,19,247,13.00,15.4,52,1,13,--,--,2008,Receiving
+9,Philadelphia Eagles,Reggie Brown,10,18,252,14.00,25.2,40,1,13,--,--,2008,Receiving
+10,Philadelphia Eagles,Tony Hunt,6,6,42,7.00,7.0,18,0,3,--,--,2008,Receiving
+11,Philadelphia Eagles,Dan Klecko,16,6,36,6.00,2.2,12,0,2,--,--,2008,Receiving
+12,Philadelphia Eagles,Lorenzo Booker,10,6,11,1.83,1.1,8,0,1,--,--,2008,Receiving
+13,Philadelphia Eagles,Matt Schobel,5,2,10,5.00,2.0,5,0,0,--,--,2008,Receiving
+14,Philadelphia Eagles,Todd Herremans,16,1,1,1.00,0.1,1t,1,1,--,--,2008,Receiving
+0,Philadelphia Eagles,Brent Celek,16,76,971,12.78,60.7,47t,8,42,112,--,2009,Receiving
+1,Philadelphia Eagles,DeSean Jackson,15,62,"1,156",18.65,77.1,71t,9,40,116,--,2009,Receiving
+2,Philadelphia Eagles,Jeremy Maclin,15,56,773,13.80,51.5,56,4,34,92,--,2009,Receiving
+3,Philadelphia Eagles,Jason Avant,16,41,587,14.32,36.7,58,3,26,58,--,2009,Receiving
+4,Philadelphia Eagles,LeSean McCoy,16,40,308,7.70,19.2,45,0,13,55,--,2009,Receiving
+5,Philadelphia Eagles,Brian Westbrook,8,25,181,7.24,22.6,34,1,7,34,--,2009,Receiving
+6,Philadelphia Eagles,Leonard Weaver,16,15,140,9.33,8.8,59,2,6,26,--,2009,Receiving
+7,Philadelphia Eagles,Reggie Brown,14,9,155,17.22,11.1,43,0,7,24,--,2009,Receiving
+8,Philadelphia Eagles,Kevin Curtis,3,6,77,12.83,25.7,19,0,5,15,--,2009,Receiving
+9,Philadelphia Eagles,Alex Smith,16,3,25,8.33,1.6,11,0,2,8,--,2009,Receiving
+10,Philadelphia Eagles,Donovan McNabb,14,1,1,1.00,0.1,1,0,0,1,--,2009,Receiving
+11,Philadelphia Eagles,Hank Baskett,1,1,6,6.00,6.0,6,0,0,2,--,2009,Receiving
+0,Philadelphia Eagles,LeSean McCoy,15,78,592,7.59,39.5,40,2,31,90,--,2010,Receiving
+1,Philadelphia Eagles,Jeremy Maclin,16,70,964,13.77,60.2,83t,10,45,115,--,2010,Receiving
+2,Philadelphia Eagles,Jason Avant,16,51,573,11.24,35.8,34,1,31,75,--,2010,Receiving
+3,Philadelphia Eagles,DeSean Jackson,14,47,"1,056",22.47,75.4,91t,6,34,96,--,2010,Receiving
+4,Philadelphia Eagles,Brent Celek,16,42,511,12.17,31.9,65t,4,23,79,--,2010,Receiving
+5,Philadelphia Eagles,Owen Schmitt,15,19,136,7.16,9.1,18,1,9,24,--,2010,Receiving
+6,Philadelphia Eagles,Chad Hall,8,11,115,10.45,14.4,48,1,5,18,--,2010,Receiving
+7,Philadelphia Eagles,Clay Harbor,9,9,72,8.00,8.0,24,1,3,15,--,2010,Receiving
+8,Philadelphia Eagles,Jerome Harrison,8,8,43,5.38,5.4,15,0,1,9,--,2010,Receiving
+9,Philadelphia Eagles,Riley Cooper,13,7,116,16.57,8.9,37,1,5,18,--,2010,Receiving
+10,Philadelphia Eagles,Garrett Mills,7,2,19,9.50,2.7,14,0,1,3,--,2010,Receiving
+11,Philadelphia Eagles,Todd Herremans,16,1,2,2.00,0.1,2t,1,1,1,--,2010,Receiving
+12,Philadelphia Eagles,Michael McGlynn,16,1,1,1.00,0.1,1,0,0,1,--,2010,Receiving
+13,Philadelphia Eagles,Eldra Buckley,16,1,10,10.00,0.6,10,0,0,2,--,2010,Receiving
+14,Philadelphia Eagles,Mike Bell,5,1,5,5.00,1.0,5,0,0,3,--,2010,Receiving
+0,Philadelphia Eagles,Jeremy Maclin,13,63,859,13.63,66.1,59,5,43,97,260,2011,Receiving
+1,Philadelphia Eagles,Brent Celek,16,62,811,13.08,50.7,73,5,35,97,463,2011,Receiving
+2,Philadelphia Eagles,DeSean Jackson,15,58,961,16.57,64.1,62t,4,39,104,227,2011,Receiving
+3,Philadelphia Eagles,Jason Avant,16,52,679,13.06,42.4,35,1,33,81,173,2011,Receiving
+4,Philadelphia Eagles,LeSean McCoy,15,48,315,6.56,21.0,26,3,18,69,388,2011,Receiving
+5,Philadelphia Eagles,Riley Cooper,16,16,315,19.69,19.7,58,1,13,35,56,2011,Receiving
+6,Philadelphia Eagles,Clay Harbor,16,13,163,12.54,10.2,27,1,8,19,40,2011,Receiving
+7,Philadelphia Eagles,Steve Smith,9,11,124,11.27,13.8,20,1,5,20,33,2011,Receiving
+8,Philadelphia Eagles,Chad Hall,7,3,20,6.67,2.9,16,1,1,9,11,2011,Receiving
+9,Philadelphia Eagles,Owen Schmitt,16,3,32,10.67,2.0,13,0,2,7,27,2011,Receiving
+10,Philadelphia Eagles,Dion Lewis,15,1,-3,-3.00,-0.2,-3,0,0,1,5,2011,Receiving
+11,Philadelphia Eagles,Ronnie Brown,16,0,0,0.00,0.0,0,0,0,2,0,2011,Receiving
+12,Philadelphia Eagles,Colt Anderson,12,0,0,0.00,0.0,0,0,0,1,0,2011,Receiving
+0,Philadelphia Eagles,Jeremy Maclin,15,69,857,12.42,57.1,70t,7,37,122,255,2012,Receiving
+1,Philadelphia Eagles,Brent Celek,15,57,684,12.00,45.6,34,1,32,88,306,2012,Receiving
+2,Philadelphia Eagles,LeSean McCoy,12,54,373,6.91,31.1,36,3,19,67,473,2012,Receiving
+3,Philadelphia Eagles,Jason Avant,14,53,648,12.23,46.3,39,0,31,76,162,2012,Receiving
+4,Philadelphia Eagles,DeSean Jackson,11,45,700,15.56,63.6,77t,2,30,88,223,2012,Receiving
+5,Philadelphia Eagles,Clay Harbor,14,25,186,7.44,13.3,19,2,8,39,69,2012,Receiving
+6,Philadelphia Eagles,Riley Cooper,11,23,248,10.78,22.5,23,3,14,48,91,2012,Receiving
+7,Philadelphia Eagles,Damaris Johnson,14,19,256,13.47,18.3,32,0,14,31,100,2012,Receiving
+8,Philadelphia Eagles,Bryce Brown,16,13,56,4.31,3.5,11,0,3,19,91,2012,Receiving
+9,Philadelphia Eagles,Stanley Havili,15,7,43,6.14,2.9,9,0,1,12,21,2012,Receiving
+10,Philadelphia Eagles,Dion Lewis,9,2,24,12.00,2.7,28,0,1,2,29,2012,Receiving
+11,Philadelphia Eagles,Mardy Gilyard,6,0,0,0.00,0.0,0,0,0,1,0,2012,Receiving
+12,Philadelphia Eagles,Nick Foles,7,0,0,0.00,0.0,0,0,0,0,-5,2012,Receiving
+13,Philadelphia Eagles,Marvin McNutt,4,0,0,0.00,0.0,0,0,0,2,0,2012,Receiving
+14,Philadelphia Eagles,Evan Moore,1,0,0,0.00,0.0,0,0,0,2,0,2012,Receiving
+15,Philadelphia Eagles,Matt Tennant,8,0,0,0.00,0.0,0,0,0,1,0,2012,Receiving
+0,Philadelphia Eagles,DeSean Jackson,16,82,"1,332",16.24,83.2,61t,9,60,125,487,2013,Receiving
+1,Philadelphia Eagles,LeSean McCoy,16,52,539,10.37,33.7,70,2,23,64,588,2013,Receiving
+2,Philadelphia Eagles,Riley Cooper,16,47,835,17.77,52.2,63t,8,33,84,229,2013,Receiving
+3,Philadelphia Eagles,Jason Avant,16,38,447,11.76,27.9,31,2,23,76,82,2013,Receiving
+4,Philadelphia Eagles,Zach Ertz,16,36,469,13.03,29.3,38,4,25,56,158,2013,Receiving
+5,Philadelphia Eagles,Brent Celek,16,32,502,15.69,31.4,42,6,22,51,278,2013,Receiving
+6,Philadelphia Eagles,Bryce Brown,16,8,84,10.50,5.2,35,0,2,13,94,2013,Receiving
+7,Philadelphia Eagles,Jeff Maehl,16,4,67,16.75,4.2,37,1,3,9,34,2013,Receiving
+8,Philadelphia Eagles,Chris Polk,15,4,61,15.25,4.1,34,0,1,5,49,2013,Receiving
+9,Philadelphia Eagles,James Casey,15,3,31,10.33,2.1,12,0,3,6,24,2013,Receiving
+10,Philadelphia Eagles,Brad Smith,6,2,27,13.50,4.5,14,0,2,2,16,2013,Receiving
+11,Philadelphia Eagles,Damaris Johnson,13,2,14,7.00,1.1,8,0,0,3,1,2013,Receiving
+12,Philadelphia Eagles,Michael Vick,7,0,-2,0.00,-0.3,-2,0,0,0,-5,2013,Receiving
+0,Philadelphia Eagles,Jeremy Maclin,16,85,"1,318",15.51,82.4,72,10,56,143,496,2014,Receiving
+1,Philadelphia Eagles,Jordan Matthews,16,67,872,13.01,54.5,44t,8,42,103,387,2014,Receiving
+2,Philadelphia Eagles,Zach Ertz,16,58,702,12.10,43.9,35t,3,42,89,225,2014,Receiving
+3,Philadelphia Eagles,Riley Cooper,16,55,577,10.49,36.1,50,3,25,95,153,2014,Receiving
+4,Philadelphia Eagles,Darren Sproles,15,40,387,9.68,25.8,57,0,17,62,404,2014,Receiving
+5,Philadelphia Eagles,Brent Celek,16,32,340,10.62,21.2,37,1,16,51,132,2014,Receiving
+6,Philadelphia Eagles,LeSean McCoy,16,28,155,5.54,9.7,18,0,10,37,182,2014,Receiving
+7,Philadelphia Eagles,Josh Huff,12,8,98,12.25,8.2,44,0,4,18,77,2014,Receiving
+8,Philadelphia Eagles,Jeff Maehl,8,5,46,9.20,5.8,15,0,1,5,11,2014,Receiving
+9,Philadelphia Eagles,James Casey,16,3,59,19.67,3.7,26t,2,3,3,4,2014,Receiving
+10,Philadelphia Eagles,Chris Polk,14,2,16,8.00,1.1,15,0,1,3,21,2014,Receiving
+11,Philadelphia Eagles,Brad Smith,13,1,11,11.00,0.8,11,0,1,3,13,2014,Receiving
+0,Philadelphia Eagles,Jordan Matthews,16,85,997,11.73,62.3,78t,8,44,128,414,2015,Receiving
+1,Philadelphia Eagles,Zach Ertz,15,75,853,11.37,56.9,60,2,39,112,298,2015,Receiving
+2,Philadelphia Eagles,Darren Sproles,16,55,388,7.05,24.2,35t,1,19,83,359,2015,Receiving
+3,Philadelphia Eagles,DeMarco Murray,15,44,322,7.32,21.5,44,1,12,55,383,2015,Receiving
+4,Philadelphia Eagles,Brent Celek,16,27,398,14.74,24.9,60,3,21,35,169,2015,Receiving
+5,Philadelphia Eagles,Josh Huff,15,27,312,11.56,20.8,41t,3,16,40,181,2015,Receiving
+6,Philadelphia Eagles,Nelson Agholor,13,23,283,12.30,21.8,53t,1,11,44,95,2015,Receiving
+7,Philadelphia Eagles,Riley Cooper,16,21,327,15.57,20.4,62t,2,15,41,62,2015,Receiving
+8,Philadelphia Eagles,Ryan Mathews,13,20,146,7.30,11.2,23t,1,5,28,152,2015,Receiving
+9,Philadelphia Eagles,Miles Austin,11,13,224,17.23,20.4,39t,1,9,31,62,2015,Receiving
+10,Philadelphia Eagles,Kenjon Barner,10,9,22,2.44,2.2,12,0,1,12,43,2015,Receiving
+11,Philadelphia Eagles,Trey Burton,16,3,54,18.00,3.4,43,0,1,4,31,2015,Receiving
+12,Philadelphia Eagles,Jonathan Krause,2,2,11,5.50,5.5,7,0,0,4,6,2015,Receiving
+13,Philadelphia Eagles,Seyi Ajirotutu,13,1,4,4.00,0.3,4,0,0,3,0,2015,Receiving
+0,New England Patriots,Troy Brown,16,83,944,11.37,59.0,44t,4,46,--,--,2000,Receiving
+1,New England Patriots,Terry Glenn,16,79,963,12.19,60.2,39t,6,56,--,--,2000,Receiving
+2,New England Patriots,Kevin Faulk,16,51,465,9.12,29.1,52t,1,18,--,--,2000,Receiving
+3,New England Patriots,J.R. Redmond,12,20,126,6.30,10.5,20,2,5,--,--,2000,Receiving
+4,New England Patriots,Eric Bjornson,8,20,152,7.60,19.0,19,2,10,--,--,2000,Receiving
+5,New England Patriots,Jermaine Wiggins,4,16,203,12.69,50.8,59,1,11,--,--,2000,Receiving
+6,New England Patriots,Rod Rutledge,16,15,103,6.87,6.4,16,1,3,--,--,2000,Receiving
+7,New England Patriots,Tony Simmons,12,14,231,16.50,19.2,46,1,11,--,--,2000,Receiving
+8,New England Patriots,Tony Carter,16,9,73,8.11,4.6,21,0,3,--,--,2000,Receiving
+9,New England Patriots,Curtis Jackson,5,5,44,8.80,8.8,13,0,2,--,--,2000,Receiving
+10,New England Patriots,Chris Calloway,7,5,95,19.00,13.6,28,0,5,--,--,2000,Receiving
+11,New England Patriots,Patrick Pass,5,4,17,4.25,3.4,15,0,0,--,--,2000,Receiving
+12,New England Patriots,Raymont Harris,1,2,1,0.50,1.0,2,0,0,--,--,2000,Receiving
+13,New England Patriots,Harold Shaw,16,2,11,5.50,0.7,8,0,0,--,--,2000,Receiving
+14,New England Patriots,Shockmain Davis,12,2,12,6.00,1.0,9,0,1,--,--,2000,Receiving
+15,New England Patriots,Chris Floyd,11,1,21,21.00,1.9,21,0,1,--,--,2000,Receiving
+0,New England Patriots,Troy Brown,16,101,"1,199",11.87,74.9,60t,5,59,--,--,2001,Receiving
+1,New England Patriots,David Patten,16,51,749,14.69,46.8,91t,4,34,--,--,2001,Receiving
+2,New England Patriots,Kevin Faulk,15,30,189,6.30,12.6,28,2,9,--,--,2001,Receiving
+3,New England Patriots,Marc Edwards,16,25,166,6.64,10.4,17,2,10,--,--,2001,Receiving
+4,New England Patriots,Antowain Smith,16,19,192,10.11,12.0,41t,1,6,--,--,2001,Receiving
+5,New England Patriots,Terry Glenn,4,14,204,14.57,51.0,23,1,11,--,--,2001,Receiving
+6,New England Patriots,Jermaine Wiggins,16,14,133,9.50,8.3,31,4,10,--,--,2001,Receiving
+7,New England Patriots,Charles Johnson,14,14,111,7.93,7.9,24t,1,6,--,--,2001,Receiving
+8,New England Patriots,J.R. Redmond,12,13,132,10.15,11.0,17,0,6,--,--,2001,Receiving
+9,New England Patriots,Patrick Pass,16,6,66,11.00,4.1,23t,1,3,--,--,2001,Receiving
+10,New England Patriots,Rod Rutledge,15,5,35,7.00,2.3,9,0,0,--,--,2001,Receiving
+11,New England Patriots,Bert Emanuel,2,4,25,6.25,12.5,16,0,2,--,--,2001,Receiving
+12,New England Patriots,Torrance Small,3,4,29,7.25,9.7,11,0,3,--,--,2001,Receiving
+13,New England Patriots,Fred Coleman,7,2,50,25.00,7.1,46,0,1,--,--,2001,Receiving
+14,New England Patriots,Curtis Jackson,2,2,16,8.00,8.0,12,0,1,--,--,2001,Receiving
+15,New England Patriots,Bryan Cox,12,1,7,7.00,0.6,7,0,1,--,--,2001,Receiving
+16,New England Patriots,Tom Brady,15,1,23,23.00,1.5,23,0,1,--,--,2001,Receiving
+0,New England Patriots,Troy Brown,14,97,890,9.18,63.6,38,3,48,--,--,2002,Receiving
+1,New England Patriots,David Patten,16,61,824,13.51,51.5,39,5,39,--,--,2002,Receiving
+2,New England Patriots,Deion Branch,13,43,489,11.37,37.6,49t,2,22,--,--,2002,Receiving
+3,New England Patriots,Kevin Faulk,15,37,379,10.24,25.3,36t,3,14,--,--,2002,Receiving
+4,New England Patriots,Antowain Smith,16,31,243,7.84,15.2,35,2,11,--,--,2002,Receiving
+5,New England Patriots,Christian Fauria,16,27,253,9.37,15.8,33,7,16,--,--,2002,Receiving
+6,New England Patriots,Marc Edwards,16,23,196,8.52,12.2,27,0,10,--,--,2002,Receiving
+7,New England Patriots,Cameron Cleeland,12,16,112,7.00,9.3,22,1,7,--,--,2002,Receiving
+8,New England Patriots,Daniel Graham,12,15,150,10.00,12.5,31,1,7,--,--,2002,Receiving
+9,New England Patriots,Donald Hayes,12,12,133,11.08,11.1,40t,2,5,--,--,2002,Receiving
+10,New England Patriots,David Givens,12,9,92,10.22,7.7,30,1,4,--,--,2002,Receiving
+11,New England Patriots,J.R. Redmond,9,2,5,2.50,0.6,3,0,0,--,--,2002,Receiving
+12,New England Patriots,Mike Vrabel,16,1,1,1.00,0.1,1t,1,1,--,--,2002,Receiving
+0,New England Patriots,Deion Branch,15,57,803,14.09,53.5,66t,3,40,--,--,2003,Receiving
+1,New England Patriots,Kevin Faulk,15,48,440,9.17,29.3,27,0,20,--,--,2003,Receiving
+2,New England Patriots,Troy Brown,12,40,472,11.80,39.3,82t,4,18,--,--,2003,Receiving
+3,New England Patriots,Daniel Graham,14,38,409,10.76,29.2,38,4,21,--,--,2003,Receiving
+4,New England Patriots,David Givens,13,34,510,15.00,39.2,57,6,24,--,--,2003,Receiving
+5,New England Patriots,Christian Fauria,16,28,285,10.18,17.8,28,2,14,--,--,2003,Receiving
+6,New England Patriots,Larry Centers,9,19,106,5.58,11.8,14,1,9,--,--,2003,Receiving
+7,New England Patriots,Bethel Johnson,15,16,209,13.06,13.9,45,2,12,--,--,2003,Receiving
+8,New England Patriots,Antowain Smith,13,14,92,6.57,7.1,16,0,5,--,--,2003,Receiving
+9,New England Patriots,David Patten,6,9,140,15.56,23.3,42,0,6,--,--,2003,Receiving
+10,New England Patriots,Dedric Ward,4,7,106,15.14,26.5,31t,1,4,--,--,2003,Receiving
+11,New England Patriots,Patrick Pass,13,4,21,5.25,1.6,11,0,1,--,--,2003,Receiving
+12,New England Patriots,Fred McCrary,6,2,12,6.00,2.0,9,0,1,--,--,2003,Receiving
+13,New England Patriots,J.J. Stokes,2,2,38,19.00,19.0,31,0,2,--,--,2003,Receiving
+14,New England Patriots,Joe Andruzzi,16,1,0,0.00,0.0,0,0,0,--,--,2003,Receiving
+15,New England Patriots,Mike Cloud,5,1,8,8.00,1.6,8,0,0,--,--,2003,Receiving
+0,New England Patriots,David Givens,15,56,874,15.61,58.3,50,3,47,--,--,2004,Receiving
+1,New England Patriots,David Patten,16,44,800,18.18,50.0,48t,7,37,--,--,2004,Receiving
+2,New England Patriots,Deion Branch,9,35,454,12.97,50.4,26t,4,27,--,--,2004,Receiving
+3,New England Patriots,Daniel Graham,14,30,364,12.13,26.0,48,7,20,--,--,2004,Receiving
+4,New England Patriots,Patrick Pass,14,28,215,7.68,15.4,22,0,7,--,--,2004,Receiving
+5,New England Patriots,Kevin Faulk,11,26,248,9.54,22.5,31t,1,14,--,--,2004,Receiving
+6,New England Patriots,Troy Brown,12,17,184,10.82,15.3,22,1,11,--,--,2004,Receiving
+7,New England Patriots,Christian Fauria,16,16,195,12.19,12.2,25,2,9,--,--,2004,Receiving
+8,New England Patriots,Corey Dillon,15,15,103,6.87,6.9,20,1,3,--,--,2004,Receiving
+9,New England Patriots,Bethel Johnson,13,10,174,17.40,13.4,48,1,8,--,--,2004,Receiving
+10,New England Patriots,Jed Weaver,10,8,93,11.62,9.3,25,0,6,--,--,2004,Receiving
+11,New England Patriots,Dan Klecko,6,3,18,6.00,3.0,11,0,1,--,--,2004,Receiving
+12,New England Patriots,Mike Vrabel,16,2,3,1.50,0.2,2t,2,2,--,--,2004,Receiving
+13,New England Patriots,Benjamin Watson,1,2,16,8.00,16.0,14,0,1,--,--,2004,Receiving
+14,New England Patriots,Rabih Abdullah,9,1,9,9.00,1.0,9,0,0,--,--,2004,Receiving
+0,New England Patriots,Deion Branch,16,78,998,12.79,62.4,51,5,51,--,--,2005,Receiving
+1,New England Patriots,David Givens,13,59,738,12.51,56.8,40,2,32,--,--,2005,Receiving
+2,New England Patriots,Troy Brown,13,39,466,11.95,35.8,71,2,24,--,--,2005,Receiving
+3,New England Patriots,Benjamin Watson,15,29,441,15.21,29.4,35,4,22,--,--,2005,Receiving
+4,New England Patriots,Kevin Faulk,8,29,260,8.97,32.5,23,0,13,--,--,2005,Receiving
+5,New England Patriots,Patrick Pass,12,22,227,10.32,18.9,39,0,8,--,--,2005,Receiving
+6,New England Patriots,Corey Dillon,12,22,181,8.23,15.1,25,1,8,--,--,2005,Receiving
+7,New England Patriots,Tim Dwight,16,19,332,17.47,20.8,59,3,14,--,--,2005,Receiving
+8,New England Patriots,Daniel Graham,11,16,235,14.69,21.4,45t,3,9,--,--,2005,Receiving
+9,New England Patriots,Heath Evans,6,10,88,8.80,14.7,19,0,2,--,--,2005,Receiving
+10,New England Patriots,Andre' Davis,9,9,190,21.11,21.1,60t,1,8,--,--,2005,Receiving
+11,New England Patriots,Christian Fauria,16,8,57,7.12,3.6,18,2,7,--,--,2005,Receiving
+12,New England Patriots,Bethel Johnson,11,4,67,16.75,6.1,55t,1,1,--,--,2005,Receiving
+13,New England Patriots,Brandon Childress,1,3,32,10.67,32.0,21,0,1,--,--,2005,Receiving
+14,New England Patriots,Mike Vrabel,16,3,4,1.33,0.2,2t,3,3,--,--,2005,Receiving
+15,New England Patriots,Thomas Ashworth,14,1,1,1.00,0.1,1t,1,1,--,--,2005,Receiving
+16,New England Patriots,Amos Zereoue,3,1,5,5.00,1.7,5,0,0,--,--,2005,Receiving
+0,New England Patriots,Reche Caldwell,16,61,760,12.46,47.5,62t,4,41,--,--,2006,Receiving
+1,New England Patriots,Benjamin Watson,13,49,643,13.12,49.5,40,3,32,--,--,2006,Receiving
+2,New England Patriots,Kevin Faulk,15,43,356,8.28,23.7,43t,2,15,--,--,2006,Receiving
+3,New England Patriots,Troy Brown,16,43,384,8.93,24.0,23,4,28,--,--,2006,Receiving
+4,New England Patriots,Doug Gabriel,12,25,344,13.76,28.7,45,3,13,--,--,2006,Receiving
+5,New England Patriots,Laurence Maroney,14,22,194,8.82,13.9,31,1,11,--,--,2006,Receiving
+6,New England Patriots,Daniel Graham,12,21,235,11.19,19.6,29,2,12,--,--,2006,Receiving
+7,New England Patriots,Corey Dillon,16,15,147,9.80,9.2,52,0,5,--,--,2006,Receiving
+8,New England Patriots,Chad Jackson,12,13,152,11.69,12.7,35t,3,6,--,--,2006,Receiving
+9,New England Patriots,Jabar Gaffney,11,11,142,12.91,12.9,33,1,9,--,--,2006,Receiving
+10,New England Patriots,David Thomas,15,11,159,14.45,10.6,36,1,5,--,--,2006,Receiving
+11,New England Patriots,Heath Evans,16,7,34,4.86,2.1,11,1,2,--,--,2006,Receiving
+12,New England Patriots,Brandon Childress,2,2,7,3.50,3.5,5,0,1,--,--,2006,Receiving
+13,New England Patriots,Patrick Pass,3,2,24,12.00,8.0,16,0,1,--,--,2006,Receiving
+14,New England Patriots,Kelvin Kight,4,1,9,9.00,2.2,9,0,0,--,--,2006,Receiving
+0,New England Patriots,Wes Welker,16,112,"1,175",10.49,73.4,42,8,65,--,--,2007,Receiving
+1,New England Patriots,Randy Moss,16,98,"1,493",15.23,93.3,65t,23,74,--,--,2007,Receiving
+2,New England Patriots,Kevin Faulk,16,47,383,8.15,23.9,23,1,20,--,--,2007,Receiving
+3,New England Patriots,Donte' Stallworth,16,46,697,15.15,43.6,69t,3,27,--,--,2007,Receiving
+4,New England Patriots,Benjamin Watson,12,36,389,10.81,32.4,35,6,21,--,--,2007,Receiving
+5,New England Patriots,Jabar Gaffney,16,36,449,12.47,28.1,56t,5,21,--,--,2007,Receiving
+6,New England Patriots,Kyle Brady,14,9,70,7.78,5.0,20,2,5,--,--,2007,Receiving
+7,New England Patriots,Sammy Morris,6,6,35,5.83,5.8,18,0,1,--,--,2007,Receiving
+8,New England Patriots,Heath Evans,16,4,43,10.75,2.7,29,0,2,--,--,2007,Receiving
+9,New England Patriots,Laurence Maroney,13,4,116,29.00,8.9,43,0,4,--,--,2007,Receiving
+10,New England Patriots,Mike Vrabel,16,2,3,1.50,0.2,2t,2,2,--,--,2007,Receiving
+11,New England Patriots,Logan Mankins,16,1,-9,-9.00,-0.6,-9,0,0,--,--,2007,Receiving
+12,New England Patriots,David Thomas,2,1,9,9.00,4.5,9,0,1,--,--,2007,Receiving
+13,New England Patriots,Kyle Eckel,12,1,6,6.00,0.5,6,0,0,--,--,2007,Receiving
+0,New England Patriots,Wes Welker,16,111,"1,165",10.50,72.8,64,3,57,--,--,2008,Receiving
+1,New England Patriots,Randy Moss,16,69,"1,008",14.61,63.0,76t,11,46,--,--,2008,Receiving
+2,New England Patriots,Kevin Faulk,15,58,486,8.38,32.4,22,3,23,--,--,2008,Receiving
+3,New England Patriots,Jabar Gaffney,16,38,468,12.32,29.2,37,2,26,--,--,2008,Receiving
+4,New England Patriots,Benjamin Watson,14,22,209,9.50,14.9,29,2,12,--,--,2008,Receiving
+5,New England Patriots,Sammy Morris,13,17,161,9.47,12.4,42,0,5,--,--,2008,Receiving
+6,New England Patriots,David Thomas,15,9,93,10.33,6.2,18,0,5,--,--,2008,Receiving
+7,New England Patriots,Sam Aiken,14,8,101,12.62,7.2,43,0,5,--,--,2008,Receiving
+8,New England Patriots,BenJarvus Green-Ellis,9,3,37,12.33,4.1,20,0,3,--,--,2008,Receiving
+9,New England Patriots,Heath Evans,16,3,59,19.67,3.7,28,0,3,--,--,2008,Receiving
+10,New England Patriots,Kelley Washington,10,1,3,3.00,0.3,3,0,1,--,--,2008,Receiving
+0,New England Patriots,Wes Welker,14,123,"1,348",10.96,96.3,58,4,71,162,--,2009,Receiving
+1,New England Patriots,Randy Moss,16,83,"1,264",15.23,79.0,71t,13,62,137,--,2009,Receiving
+2,New England Patriots,Julian Edelman,11,37,359,9.70,32.6,29,1,19,54,--,2009,Receiving
+3,New England Patriots,Kevin Faulk,15,37,301,8.14,20.1,38t,1,13,53,--,2009,Receiving
+4,New England Patriots,Benjamin Watson,16,29,404,13.93,25.2,36,5,20,41,--,2009,Receiving
+5,New England Patriots,Sam Aiken,14,20,326,16.30,23.3,81t,2,12,41,--,2009,Receiving
+6,New England Patriots,Sammy Morris,12,19,180,9.47,15.0,35,0,10,27,--,2009,Receiving
+7,New England Patriots,Laurence Maroney,15,14,99,7.07,6.6,17,0,4,17,--,2009,Receiving
+8,New England Patriots,Chris Baker,16,14,142,10.14,8.9,36t,2,6,19,--,2009,Receiving
+9,New England Patriots,Joey Galloway,3,7,67,9.57,22.3,19,0,3,20,--,2009,Receiving
+10,New England Patriots,Isaiah Stanback,6,3,22,7.33,3.7,9,0,1,7,--,2009,Receiving
+11,New England Patriots,BenJarvus Green-Ellis,12,2,11,5.50,0.9,6,0,0,5,--,2009,Receiving
+12,New England Patriots,Fred Taylor,6,2,17,8.50,2.8,13,0,1,3,--,2009,Receiving
+13,New England Patriots,Brandon Tate,2,0,0,0.00,0.0,0,0,0,2,--,2009,Receiving
+14,New England Patriots,Michael Matthews,4,0,0,0.00,0.0,0,0,0,1,--,2009,Receiving
+0,New England Patriots,Wes Welker,15,86,848,9.86,56.5,35,7,47,123,--,2010,Receiving
+1,New England Patriots,Deion Branch,11,48,706,14.71,64.2,79t,5,36,74,--,2010,Receiving
+2,New England Patriots,Aaron Hernandez,14,45,563,12.51,40.2,46,6,27,64,--,2010,Receiving
+3,New England Patriots,Rob Gronkowski,16,42,546,13.00,34.1,28,10,30,59,--,2010,Receiving
+4,New England Patriots,Danny Woodhead,14,34,379,11.15,27.1,50,1,15,44,--,2010,Receiving
+5,New England Patriots,Brandon Tate,16,24,432,18.00,27.0,65t,3,14,46,--,2010,Receiving
+6,New England Patriots,BenJarvus Green-Ellis,16,12,85,7.08,5.3,16,0,5,16,--,2010,Receiving
+7,New England Patriots,Randy Moss,4,9,139,15.44,34.8,35t,3,6,22,--,2010,Receiving
+8,New England Patriots,Julian Edelman,15,7,86,12.29,5.7,40,0,3,14,--,2010,Receiving
+9,New England Patriots,Sammy Morris,16,7,77,11.00,4.8,22,0,4,12,--,2010,Receiving
+10,New England Patriots,Kevin Faulk,2,6,62,10.33,31.0,21,0,2,10,--,2010,Receiving
+11,New England Patriots,Alge Crumpler,16,6,52,8.67,3.2,27,2,4,10,--,2010,Receiving
+12,New England Patriots,Taylor Price,1,3,41,13.67,41.0,18,0,3,4,--,2010,Receiving
+13,New England Patriots,Fred Taylor,7,2,6,3.00,0.9,7,0,0,3,--,2010,Receiving
+14,New England Patriots,Matt Slater,15,0,0,0.00,0.0,0,0,0,1,--,2010,Receiving
+0,New England Patriots,Wes Welker,16,122,"1,569",12.86,98.1,99t,9,77,173,708,2011,Receiving
+1,New England Patriots,Rob Gronkowski,16,90,"1,327",14.74,82.9,52t,17,69,124,637,2011,Receiving
+2,New England Patriots,Aaron Hernandez,14,79,910,11.52,65.0,46,7,46,113,507,2011,Receiving
+3,New England Patriots,Deion Branch,15,51,702,13.76,46.8,63,5,37,90,331,2011,Receiving
+4,New England Patriots,Danny Woodhead,15,18,157,8.72,10.5,16,0,8,31,129,2011,Receiving
+5,New England Patriots,Chad Johnson,15,15,276,18.40,18.4,53,1,13,32,53,2011,Receiving
+6,New England Patriots,BenJarvus Green-Ellis,16,9,159,17.67,9.9,53,0,7,13,137,2011,Receiving
+7,New England Patriots,Kevin Faulk,7,7,34,4.86,4.9,18,0,2,9,32,2011,Receiving
+8,New England Patriots,Julian Edelman,13,4,34,8.50,2.6,11,0,0,8,8,2011,Receiving
+9,New England Patriots,Stevan Ridley,16,3,13,4.33,0.8,8,0,0,5,13,2011,Receiving
+10,New England Patriots,Tiquan Underwood,6,3,30,10.00,5.0,13,0,2,6,6,2011,Receiving
+11,New England Patriots,Matt Slater,16,1,46,46.00,2.9,46,0,1,3,0,2011,Receiving
+12,New England Patriots,Logan Mankins,15,0,0,0.00,0.0,0,0,0,0,-1,2011,Receiving
+13,New England Patriots,Dane Fletcher,10,0,0,0.00,0.0,0,0,0,1,0,2011,Receiving
+14,New England Patriots,Taylor Price,3,0,0,0.00,0.0,0,0,0,1,0,2011,Receiving
+0,New England Patriots,Wes Welker,16,118,"1,354",11.47,84.6,59,6,72,175,687,2012,Receiving
+1,New England Patriots,Brandon Lloyd,16,74,911,12.31,56.9,53,4,50,130,168,2012,Receiving
+2,New England Patriots,Rob Gronkowski,11,55,790,14.36,71.8,41,11,45,80,300,2012,Receiving
+3,New England Patriots,Aaron Hernandez,10,51,483,9.47,48.3,31,5,27,83,222,2012,Receiving
+4,New England Patriots,Danny Woodhead,16,40,446,11.15,27.9,25,3,22,55,371,2012,Receiving
+5,New England Patriots,Julian Edelman,9,21,235,11.19,26.1,56t,3,12,32,141,2012,Receiving
+6,New England Patriots,Deion Branch,10,16,145,9.06,14.5,25,0,10,29,44,2012,Receiving
+7,New England Patriots,Shane Vereen,13,8,149,18.62,11.5,83t,1,6,13,140,2012,Receiving
+8,New England Patriots,Stevan Ridley,16,6,51,8.50,3.2,20,0,2,14,47,2012,Receiving
+9,New England Patriots,Michael Hoomanawanui,14,5,109,21.80,7.8,41,0,4,7,48,2012,Receiving
+10,New England Patriots,Daniel Fells,13,4,85,21.25,6.5,35,0,3,9,26,2012,Receiving
+11,New England Patriots,Brandon Bolden,10,2,11,5.50,1.1,11,0,1,2,10,2012,Receiving
+12,New England Patriots,Kellen Winslow,1,1,12,12.00,12.0,12,0,1,2,3,2012,Receiving
+13,New England Patriots,Donte' Stallworth,1,1,63,63.00,63.0,63t,1,1,2,30,2012,Receiving
+14,New England Patriots,Visanthe Shiancoe,4,0,0,0.00,0.0,0,0,0,1,0,2012,Receiving
+0,New England Patriots,Julian Edelman,16,105,"1,056",10.06,66.0,44,6,54,151,497,2013,Receiving
+1,New England Patriots,Danny Amendola,12,54,633,11.72,52.8,57,2,37,83,252,2013,Receiving
+2,New England Patriots,Shane Vereen,8,47,427,9.09,53.4,50,3,25,69,275,2013,Receiving
+3,New England Patriots,Rob Gronkowski,7,39,592,15.18,84.6,50,4,31,66,194,2013,Receiving
+4,New England Patriots,Aaron Dobson,12,37,519,14.03,43.2,81t,4,25,72,185,2013,Receiving
+5,New England Patriots,Kenbrell Thompkins,12,32,466,14.56,38.8,49,4,21,69,139,2013,Receiving
+6,New England Patriots,Brandon Bolden,12,21,152,7.24,12.7,18,0,6,29,159,2013,Receiving
+7,New England Patriots,Michael Hoomanawanui,13,12,136,11.33,10.5,19,1,7,19,83,2013,Receiving
+8,New England Patriots,Stevan Ridley,14,10,62,6.20,4.4,24,0,2,12,57,2013,Receiving
+9,New England Patriots,Josh Boyce,9,9,121,13.44,13.4,30,0,6,19,78,2013,Receiving
+10,New England Patriots,Austin Collie,7,6,63,10.50,9.0,19,0,6,11,4,2013,Receiving
+11,New England Patriots,James Develin,16,4,62,15.50,3.9,31,0,3,4,32,2013,Receiving
+12,New England Patriots,LeGarrette Blount,16,2,38,19.00,2.4,32,0,1,5,41,2013,Receiving
+13,New England Patriots,Matthew Mulligan,15,2,16,8.00,1.1,15,1,1,3,18,2013,Receiving
+14,New England Patriots,Nate Solder,15,0,0,0.00,0.0,0,0,0,1,0,2013,Receiving
+15,New England Patriots,Zach Sudfeld,3,0,0,0.00,0.0,0,0,0,3,0,2013,Receiving
+16,New England Patriots,Leon Washington,2,0,0,0.00,0.0,0,0,0,1,0,2013,Receiving
+17,New England Patriots,D.J. Williams,2,0,0,0.00,0.0,0,0,0,1,0,2013,Receiving
+0,New England Patriots,Julian Edelman,14,92,972,10.57,69.4,69t,4,49,134,431,2014,Receiving
+1,New England Patriots,Rob Gronkowski,15,82,"1,124",13.71,74.9,46t,12,60,131,458,2014,Receiving
+2,New England Patriots,Brandon LaFell,16,74,953,12.88,59.6,56t,7,50,119,368,2014,Receiving
+3,New England Patriots,Shane Vereen,16,52,447,8.60,27.9,49t,3,24,77,383,2014,Receiving
+4,New England Patriots,Danny Amendola,16,27,200,7.41,12.5,21,1,12,42,74,2014,Receiving
+5,New England Patriots,Tim Wright,16,26,259,9.96,16.2,30,6,18,33,94,2014,Receiving
+6,New England Patriots,Kenbrell Thompkins,2,6,53,8.83,26.5,16,0,3,11,30,2014,Receiving
+7,New England Patriots,James Develin,16,6,43,7.17,2.7,13,0,3,8,32,2014,Receiving
+8,New England Patriots,James White,3,5,23,4.60,7.7,11,0,1,5,24,2014,Receiving
+9,New England Patriots,Brian Tyms,11,5,82,16.40,7.5,43t,1,3,11,3,2014,Receiving
+10,New England Patriots,Stevan Ridley,6,4,20,5.00,3.3,7,0,0,5,31,2014,Receiving
+11,New England Patriots,LeGarrette Blount,5,4,18,4.50,3.6,11,0,1,4,13,2014,Receiving
+12,New England Patriots,Aaron Dobson,4,3,38,12.67,9.5,16,0,2,5,21,2014,Receiving
+13,New England Patriots,Michael Hoomanawanui,16,3,44,14.67,2.8,23,0,2,6,5,2014,Receiving
+14,New England Patriots,Brandon Bolden,16,2,8,4.00,0.5,4,0,0,6,11,2014,Receiving
+15,New England Patriots,Jonas Gray,8,1,7,7.00,0.9,7,0,0,3,3,2014,Receiving
+16,New England Patriots,Steve Maneri,1,0,0,0.00,0.0,0,0,0,1,0,2014,Receiving
+0,New England Patriots,Rob Gronkowski,15,72,"1,176",16.33,78.4,76t,11,52,120,554,2015,Receiving
+1,New England Patriots,Danny Amendola,14,65,648,9.97,46.3,41,3,32,87,264,2015,Receiving
+2,New England Patriots,Julian Edelman,9,61,692,11.34,76.9,59t,7,37,88,310,2015,Receiving
+3,New England Patriots,James White,14,40,410,10.25,29.3,68,4,19,54,347,2015,Receiving
+4,New England Patriots,Brandon LaFell,11,37,515,13.92,46.8,54,0,22,74,224,2015,Receiving
+5,New England Patriots,Dion Lewis,7,36,388,10.78,55.4,40,2,16,50,340,2015,Receiving
+6,New England Patriots,Keshawn Martin,9,24,269,11.21,29.9,39,2,14,37,76,2015,Receiving
+7,New England Patriots,Scott Chandler,15,23,259,11.26,17.3,30,4,14,42,72,2015,Receiving
+8,New England Patriots,Brandon Bolden,15,19,180,9.47,12.0,63t,2,8,30,129,2015,Receiving
+9,New England Patriots,Aaron Dobson,8,13,141,10.85,17.6,24,0,9,21,29,2015,Receiving
+10,New England Patriots,LeGarrette Blount,12,6,43,7.17,3.6,14,1,3,7,31,2015,Receiving
+11,New England Patriots,Michael Williams,15,3,26,8.67,1.7,15,0,1,6,13,2015,Receiving
+12,New England Patriots,Asante Cleveland,4,1,1,1.00,0.2,1,0,0,1,0,2015,Receiving
+13,New England Patriots,Chris Harper,5,1,6,6.00,1.2,6,0,0,3,1,2015,Receiving
+14,New England Patriots,Travaris Cadet,1,1,2,2.00,2.0,2,0,0,1,2,2015,Receiving
+15,New England Patriots,Tom Brady,16,1,36,36.00,2.2,36,0,1,1,29,2015,Receiving
+16,New England Patriots,Steven Jackson,2,1,20,20.00,10.0,20,0,1,1,23,2015,Receiving
+17,New England Patriots,Matt Slater,16,0,0,0.00,0.0,0,0,0,1,0,2015,Receiving
+0,New England Patriots,Julian Edelman,16,98,"1,106",11.29,69.1,77t,3,55,159,494,2016,Receiving
+1,New England Patriots,James White,16,60,551,9.18,34.4,61,5,26,86,512,2016,Receiving
+2,New England Patriots,Martellus Bennett,16,55,701,12.75,43.8,58,7,31,73,416,2016,Receiving
+3,New England Patriots,Chris Hogan,15,38,680,17.89,45.3,79t,4,23,58,241,2016,Receiving
+4,New England Patriots,Malcolm Mitchell,14,32,401,12.53,28.6,56t,4,23,48,167,2016,Receiving
+5,New England Patriots,Rob Gronkowski,8,25,540,21.60,67.5,53t,3,19,38,227,2016,Receiving
+6,New England Patriots,Danny Amendola,12,23,243,10.57,20.2,32,4,14,29,73,2016,Receiving
+7,New England Patriots,Dion Lewis,7,17,94,5.53,13.4,16,0,4,24,83,2016,Receiving
+8,New England Patriots,LeGarrette Blount,16,7,38,5.43,2.4,16,0,1,8,43,2016,Receiving
+9,New England Patriots,Michael Floyd,2,4,42,10.50,21.0,14t,1,3,6,14,2016,Receiving
+10,New England Patriots,James Develin,16,3,18,6.00,1.1,13,0,2,6,10,2016,Receiving
+11,New England Patriots,Matt Lengel,6,2,22,11.00,3.7,18t,1,1,3,1,2016,Receiving
+12,New England Patriots,Brandon Bolden,14,2,15,7.50,1.1,13,0,1,4,13,2016,Receiving
+13,New England Patriots,Jimmy Garoppolo,6,1,3,3.00,0.5,3,0,0,1,7,2016,Receiving
+14,New England Patriots,D.J. Foster,3,1,2,2.00,0.7,2,0,0,2,5,2016,Receiving
+15,New England Patriots,Matt Slater,13,0,0,0.00,0.0,0,0,0,1,0,2016,Receiving
